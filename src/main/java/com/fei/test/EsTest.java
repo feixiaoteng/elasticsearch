@@ -10,4 +10,7 @@ package com.fei.test;
  * @Description: 测试好不好使
  */
 public class EsTest {
+    public static void main(String[] args) {
+
+    }
 }
